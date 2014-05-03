@@ -1,0 +1,3 @@
+[submodule "vendor/Bolts-Android"]
+	path = vendor/Bolts-Android
+	url = git@github.com:BoltsFramework/Bolts-Android.git
